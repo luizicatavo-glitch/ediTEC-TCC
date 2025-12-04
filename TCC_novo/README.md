@@ -22,10 +22,10 @@ O **ediTEC** é um sistema web desenvolvido para apoiar estudantes da ETEC de Ca
 ## 📸 Telas do Sistema
 
 ### Tela Inicial
-![Tela Inicial](design/home)
+![Tela Inicial](design/home.PNG)
 
 ### Editor de Artigos
-![Editor de Artigos](design/edicao)
+![Editor de Artigos](design/edicao.PNG)
 
 ## 🚀 Como executar o projeto
 
@@ -55,4 +55,5 @@ ALOI, Luiz Gustavo Dias Carvalhaes; DE JESUS, Miguel Augusto Borges. **Desenvolv
 ---
 
 *Para acessar o trabalho escrito completo, consulte a pasta `/docs`.*
+
 
