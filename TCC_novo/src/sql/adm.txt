@@ -1,0 +1,16 @@
+
+
+
+
+
+
+TRANSFORMAR COMUM EM ADM
+
+
+
+
+
+
+UPDATE usuarios
+SET tipo = 'admin'
+WHERE email = 'adm@gmail.com';

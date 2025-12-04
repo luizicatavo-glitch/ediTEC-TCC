@@ -1,0 +1,22 @@
+[2025-10-23 02:08:08] == SALVAR_ARTIGO called by user_id=1 ==
+[2025-10-23 02:08:08] Received sections_json length: 83
+[2025-10-23 02:08:08] Article saved id=2
+[2025-10-23 02:08:08] json_decode error: 0 (No error)
+[2025-10-23 02:08:08] Inserting section_key='introducao' count=1
+[2025-10-23 02:08:08] Transaction committed. inserted_sections=1
+[2025-10-23 02:08:34] == SALVAR_ARTIGO called by user_id=1 ==
+[2025-10-23 02:08:34] Received sections_json length: 91
+[2025-10-23 02:08:34] Article saved id=2
+[2025-10-23 02:08:34] json_decode error: 0 (No error)
+[2025-10-23 02:08:34] Inserting section_key='introducao' count=1
+[2025-10-23 02:08:34] Transaction committed. inserted_sections=1
+[2025-10-23 02:42:51] == SALVAR_ARTIGO called by user_id=1 ==
+[2025-10-23 02:42:51] Received sections_json length: 2
+[2025-10-23 02:42:51] Article saved id=2
+[2025-10-23 02:42:51] json_decode error: 0 (No error)
+[2025-10-23 02:42:51] Transaction committed. inserted_sections=0
+[2025-11-13 02:18:03] == SALVAR_ARTIGO called by user_id=2 ==
+[2025-11-13 02:18:03] Received sections_json length: 2
+[2025-11-13 02:18:03] Article saved id=1
+[2025-11-13 02:18:03] json_decode error: 0 (No error)
+[2025-11-13 02:18:03] Transaction committed. inserted_sections=0
