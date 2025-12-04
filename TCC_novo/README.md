@@ -53,7 +53,8 @@ O **ediTEC** é um sistema web desenvolvido para apoiar estudantes da ETEC de Ca
 ALOI, Luiz Gustavo Dias Carvalhaes; DE JESUS, Miguel Augusto Borges. **Desenvolvimento de um sistema web para apoiar na formatação de artigos científicos na ETEC de Campo Limpo Paulista**. 2025. TCC (Ensino Médio com Habilitação Técnico em Informática para Internet) – ETEC de Campo Limpo Paulista, Centro Paula Souza.
 
 ---
-
+*Em caso de dúvidas, fale contato: luizicatavo@gmail.com ou miguelaugustoborges10@gmail.com.
 *Para acessar o trabalho escrito completo, consulte a pasta `/docs`.*
+
 
 
