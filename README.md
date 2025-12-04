@@ -1,6 +1,6 @@
 # ediTEC - Sistema de Formatação de Artigos Científicos
 
-![Logo do ediTEC](TCC-novo/design/logo.png)
+![Logo do ediTEC](TCC_novo/design/logo.png)
 
 ## 📖 Descrição
 O **ediTEC** é um sistema web desenvolvido para apoiar estudantes da ETEC de Campo Limpo Paulista na formatação de artigos científicos. O projeto visa automatizar a aplicação das normas da ABNT e diretrizes do Centro Paula Souza, solucionando dificuldades recorrentes como formatação manual e referências.
@@ -22,10 +22,10 @@ O **ediTEC** é um sistema web desenvolvido para apoiar estudantes da ETEC de Ca
 ## 📸 Telas do Sistema
 
 ### Tela Inicial
-![Tela Inicial](TCC-novo/design/home.PNG)
+![Tela Inicial](TCC_novo/design/home.PNG)
 
 ### Editor de Artigos
-![Editor de Artigos](TCC-novo/design/edicao.PNG)
+![Editor de Artigos](TCC_novo/design/edicao.PNG)
 
 ## 🚀 Como executar o projeto
 
