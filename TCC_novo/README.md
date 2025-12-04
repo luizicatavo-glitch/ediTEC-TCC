@@ -22,10 +22,10 @@ O **ediTEC** é um sistema web desenvolvido para apoiar estudantes da ETEC de Ca
 ## 📸 Telas do Sistema
 
 ### Tela Inicial
-![Tela Inicial](design/home.png)
+![Tela Inicial](../design/home.png)
 
 ### Editor de Artigos
-![Editor de Artigos](design/edicao.png)
+![Editor de Artigos](../design/edicao.png)
 
 ## 🚀 Como executar o projeto
 
@@ -53,4 +53,5 @@ O **ediTEC** é um sistema web desenvolvido para apoiar estudantes da ETEC de Ca
 ALOI, Luiz Gustavo Dias Carvalhaes; DE JESUS, Miguel Augusto Borges. **Desenvolvimento de um sistema web para apoiar na formatação de artigos científicos na ETEC de Campo Limpo Paulista**. 2025. TCC (Ensino Médio com Habilitação Técnico em Informática para Internet) – ETEC de Campo Limpo Paulista, Centro Paula Souza.
 
 ---
+
 *Para acessar o trabalho escrito completo, consulte a pasta `/docs`.*
